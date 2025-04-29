@@ -11,7 +11,7 @@ This project involves analyzing Atliq's data to derive actionable insights and s
 Atliq_Analysis.xlsx: Contains the dataset, detailed analysis, and visualizations.
 Derived Insights
 
-****I’m thrilled to share my first insights derived using Excel****
+****I’m thrilled to share my insights derived using Excel****
 1. Customer Target: compared Net sales of 2021 with its Target table.
 2. Top 10 Products: Identified based on the percentage increase in net sales from 2020 to 2021.
 3. Division Report: Summarizes net sales for 2020 and 2021, along with growth percentages.
